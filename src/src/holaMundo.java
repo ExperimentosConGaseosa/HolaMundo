@@ -6,8 +6,7 @@ public class holaMundo {
 	public static void main (String[] args)
 	{
 	
-		// comentario eclipse windows
-		// modificado en repo
+		// comentario eclipse windows - eliminada modif. repo
 	System.out.println("Hola Mundo!!");
 	}
 
