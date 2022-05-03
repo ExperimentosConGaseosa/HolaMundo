@@ -15,6 +15,10 @@ public class holaMundo {
 	
 	// aqui vendra la llamada al metodo de conversion decimal-binario de la otra rama
 	
+	decimalBinario db = new decimalBinario();
+	
+	db.decimalABinario(37);
+	
 	}
 
 	public static void escribeMensaje ()
