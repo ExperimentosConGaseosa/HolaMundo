@@ -13,6 +13,8 @@ public class holaMundo {
 	
 	escribeMensaje(); 
 	
+	// aqui vendra la llamada al metodo de conversion decimal-binario de la otra rama
+	
 	}
 
 	public static void escribeMensaje ()
