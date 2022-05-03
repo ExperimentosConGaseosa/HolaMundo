@@ -17,6 +17,9 @@ public class holaMundo {
 
 	public static void escribeMensaje ()
 	{
+		
+	// comentario aclaratorio en método auxiliar
+		
 	System.out.println("\n\nDiciendo hola al mundo desde un método ... ");
 	}
 	
